@@ -1,0 +1,15 @@
+C:\Formazione DotNet\progetti\prj001\bin\Debug\net10.0\prj001.exe
+C:\Formazione DotNet\progetti\prj001\bin\Debug\net10.0\prj001.deps.json
+C:\Formazione DotNet\progetti\prj001\bin\Debug\net10.0\prj001.runtimeconfig.json
+C:\Formazione DotNet\progetti\prj001\bin\Debug\net10.0\prj001.dll
+C:\Formazione DotNet\progetti\prj001\bin\Debug\net10.0\prj001.pdb
+C:\Formazione DotNet\progetti\prj001\obj\Debug\net10.0\prj001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Formazione DotNet\progetti\prj001\obj\Debug\net10.0\prj001.AssemblyInfoInputs.cache
+C:\Formazione DotNet\progetti\prj001\obj\Debug\net10.0\prj001.AssemblyInfo.cs
+C:\Formazione DotNet\progetti\prj001\obj\Debug\net10.0\prj001.csproj.CoreCompileInputs.cache
+C:\Formazione DotNet\progetti\prj001\obj\Debug\net10.0\prj001.sourcelink.json
+C:\Formazione DotNet\progetti\prj001\obj\Debug\net10.0\prj001.dll
+C:\Formazione DotNet\progetti\prj001\obj\Debug\net10.0\refint\prj001.dll
+C:\Formazione DotNet\progetti\prj001\obj\Debug\net10.0\prj001.pdb
+C:\Formazione DotNet\progetti\prj001\obj\Debug\net10.0\prj001.genruntimeconfig.cache
+C:\Formazione DotNet\progetti\prj001\obj\Debug\net10.0\ref\prj001.dll
